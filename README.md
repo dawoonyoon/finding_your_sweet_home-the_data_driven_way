@@ -24,7 +24,7 @@ Jupyter 를 구동하고 `Example.ipynb` 를 참고하여 사용합니다.
 
 
 `비인도데프_위도,경도_final.ipynb`   
-API: 위도, 경도 수집 아래 
+API: 위도, 경도 수집
 ```
 client_id = ''
 client_pw = ''
