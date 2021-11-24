@@ -4,7 +4,7 @@
 
 # Environment
 
-The code for this project was tested with Python `3.6.4`
+The code for this project was tested with Python `3.8.8`
 
 The packages I used to run the code for the project are listed in `requirements.txt`
 
