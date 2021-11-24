@@ -21,3 +21,16 @@ Jupyter 를 구동하고 `Example.ipynb` 를 참고하여 사용합니다.
 ## Note
 
 *  위도, 경도 수집
+
+
+`비인도데프_위도,경도_final.ipynb` API: 위도, 경도 수집 아래 
+
+```
+
+client_id = ''
+
+client_pw = ''
+
+```
+
+[[**네이버 클라우드 플랫폼**]](https://www.ncloud.com/) 에서 발급 받은 인증키를 입력합니다.
