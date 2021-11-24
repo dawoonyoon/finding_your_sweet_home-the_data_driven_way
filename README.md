@@ -14,8 +14,10 @@ The packages I used to run the code for the project are listed in `requirements.
 $ conda install --file requirements.txt
 ```
 
+## Notebook
 
+Jupyter 를 구동하고 `Example.ipynb` 를 참고하여 사용합니다.
 
-# 사용법
+## Note
 
-## 위도, 경도 수집
+*  위도, 경도 수집
